@@ -16,4 +16,4 @@ Projeto criado no evendo Next Level Week da Rocketseat.
 
 ## 📭 Contato
 
-caiocostadejesus@hgmail.com
+caiocostadejesus@gmail.com
